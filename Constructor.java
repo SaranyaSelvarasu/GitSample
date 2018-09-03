@@ -1,4 +1,4 @@
-
+//Constructor code for Employee
 class Employee
 {
         int empid;

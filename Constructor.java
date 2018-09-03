@@ -8,10 +8,10 @@ class Employee
 
         Employee()
         {
-           System.out.println("Empty Constructor");OB
+           System.out.println("Empty Constructor"); // Constructor without parameter
         }
 
-        Employee(int empid,String empName,int age,int salary)
+        Employee(int empid,String empName,int age,int salary) //Constructor with parameter 
         {
                 this.empid=empid;
                 this.empName=empName;
